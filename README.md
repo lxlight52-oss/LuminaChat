@@ -1,2 +1,2 @@
 # LuminaChat
- Lightweight staff chat plugin for Minecraft 1.21 Paper.
+ LuminaChat è un plugin elegante e leggero per la chat dello staff, progettato per Minecraft 1.21. Offre un sistema di comunicazione sicuro e moderno per il team del tuo server, con supporto per messaggi colorati e comandi intuitivi come /sc e /rstaffchat. LuminaChat consente ai membri dello staff di restare connessi in modo efficiente senza intasare la chat principale, rendendo la coordinazione più rapida e organizzata. È la soluzione perfetta per gli amministratori che vogliono gestire le comunicazioni dello staff con stile, affidabilità e velocità.
